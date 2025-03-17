@@ -5,7 +5,7 @@ authors = ["fenrisu1fr <zitong.tian@outlook.com>"]
 license = "MIT"
 description = "MySQL support for the r2d2 connection pool without native-tls."
 repository = "https://github.com/Jormungendr/r2d2-mysql"
-keywords = ["mysql", "sql", "pool", "database", "r2d2", "rustls"]
+keywords = ["mysql", "pool", "database", "r2d2", "rustls"]
 edition = "2024"
 rust-version = "1.85"
 
